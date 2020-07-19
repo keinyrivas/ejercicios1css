@@ -1,0 +1,78 @@
+html{
+	font-family: 'Modak', cursive;
+	font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.quesillo{
+	width: 300;
+	height: 300;
+}
+h1 {
+	font-weight: 900;
+    font-size: 89px;
+    line-height: 79px;
+    color: #ffb300;
+}
+.autor {
+	color: black;
+    font-size: 21px;
+    font-weight: bold;
+    text-align: right;
+}
+.time {
+	color: black;
+    font-size: 21px;
+    font-weight: bold;
+    text-align: right;
+}
+h2 {
+	font-weight: 900;
+	color: #ffb300;
+}
+ul {
+	font-size: 21px;
+    font-weight: 600;
+    line-height: 1.61;
+}
+ol {
+	font-size: 21px;
+    font-weight: 600;
+    line-height: 1.61;
+}
+h3 {
+	font-weight: 900;
+	color: #ffb300;
+}
+ol {
+	font-size: 21px;
+    font-weight: 600;
+    line-height: 1.61;
+}
+ul {
+	font-size: 21px;
+    font-weight: 600;
+    line-height: 1.61;
+}
+.fatia{
+	width: 300;
+	height: 300;
+}
+iframe {
+    width: 883px;
+	height: 497px;
+}
+main {
+    margin-left: 28px;
+	width: 883px;
+}
+footer {
+	font-size: 21px;
+    margin-left: 28px;
+    width: 883px;
+	text-align: center;
+	text-shadow: 5px 10px rebeccapurple;
+}
+aside {
+    margin-left: 28px;
+    width: 883px;
+    text-align: center;
+}
